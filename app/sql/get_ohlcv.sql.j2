@@ -1,0 +1,5 @@
+SELECT open, high, low, close, volume, ticker, dt
+FROM universe.psx
+WHERE ticker = '{{ ticker }}'
+ORDER BY dt DESC
+LIMIT 1;

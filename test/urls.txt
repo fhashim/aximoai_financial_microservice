@@ -1,0 +1,6 @@
+/api/ohlcv/FCCL
+/api/ohlcv/ENGRO
+/api/ohlcv/HBL
+/api/optimal-sell-price/?target_profit=1000&buy_price=25&num_shares=1000
+/api/optimal-sell-price/?target_profit=500&buy_price=10&num_shares=500
+/api/optimal-sell-price/?target_profit=40000&buy_price=44.08&num_shares=10000&day_trade=False
